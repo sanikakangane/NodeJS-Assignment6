@@ -12,6 +12,8 @@ A beginner-friendly Node.js Express assignment created to understand **router-le
 
 ```text
 ├── Assignment-6
+│   ├── node_modules
+│   │
 │   ├── Task-1
 │   │   ├── router
 │   │   │   └── apiRouter.js
@@ -23,10 +25,8 @@ A beginner-friendly Node.js Express assignment created to understand **router-le
 │   ├── Task-3
 │   │   └── server.js
 │   │
-│   ├── node_modules
 │   ├── package-lock.json
-│   ├── package.json
-│   └── README.md
+│   └── package.json
 ```
 
 ## Concepts Used
