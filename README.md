@@ -11,22 +11,22 @@ A beginner-friendly Node.js Express assignment created to understand **router-le
 ## Project Structure
 
 ```text
-├── Assignment-6
-│   ├── node_modules
-│   │
-│   ├── Task-1
-│   │   ├── router
-│   │   │   └── apiRouter.js
-│   │   └── server.js
-│   │
-│   ├── Task-2
-│   │   └── server.js
-│   │
-│   ├── Task-3
-│   │   └── server.js
-│   │
-│   ├── package-lock.json
-│   └── package.json
+├── Task-1
+│   ├── Screenshots
+│   ├── router
+│   │   └── apiRouter.js
+│   └── server.js
+│
+├── Task-2
+│   ├── Screenshots
+│   └── server.js
+│
+├── Task-3
+│   ├── Screenshots
+│   └── server.js
+│
+├── README.md
+└── package.json
 ```
 
 ## Concepts Used
